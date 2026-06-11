@@ -20,7 +20,7 @@ Aplicație Full-Stack pentru asistența studenților. Proiect de licență.
 
 **1. Descarcă proiectul**
 
-    git clone https://github.com/eduardionescu06/electrostudent-assistant.git
+    git clone https://github.com/eduardionescu435/electrostudent-assistant.git
     cd electrostudent-assistant
 
 
